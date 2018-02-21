@@ -3,6 +3,7 @@ import unittest
 import sys
 from appium import webdriver
 from time import sleep
+import requests
 
 
 class ChessAndroidTests(unittest.TestCase):
